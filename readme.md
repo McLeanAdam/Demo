@@ -1,7 +1,7 @@
 Create an automated project board, using the kanban automated template.
 
 
-You can create an board inside the project, which can be later converted to an issue
+You can create an board inside the, which can be later converted to an issue
 or 
 Assigning an issue the the project board, if automated it with appear in the corresponding todo column
 
